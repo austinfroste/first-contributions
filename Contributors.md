@@ -49,6 +49,7 @@
 - [Shrikant Dhayje](https://github.com/shriekdj)
 - [lucky-chap](https://github.com/lucky-chap)
 - [eden2888] (https://github.com/eden2888)
+- [Austin Frost](https://github.com/austinfroste)
 - [Kieran Klukas](https://github.com/kcoderhtml)
 - [Anees-Asghar](https://github.com/Anees-Asghar)
 - [Karan Agarwal](https://https://github.com/i-m-karanagarwal)
